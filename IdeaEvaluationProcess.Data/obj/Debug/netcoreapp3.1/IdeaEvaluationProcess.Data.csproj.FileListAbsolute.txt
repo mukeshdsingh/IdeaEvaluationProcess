@@ -1,0 +1,9 @@
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\bin\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.deps.json
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\bin\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.dll
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\obj\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.AssemblyInfoInputs.cache
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\obj\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.AssemblyInfo.cs
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\bin\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.pdb
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\obj\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.csprojAssemblyReference.cache
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\obj\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.csproj.CoreCompileInputs.cache
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\obj\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.dll
+E:\Mukesh\Freelancer\Abhilash\IdeaEvaluationProcess\IdeaEvaluationProcess.Data\obj\Debug\netcoreapp3.1\IdeaEvaluationProcess.Data.pdb

@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess\\IdeaEvaluationProcess.csproj": {}
+  },
+  "projects": {
+    "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess.Data\\IdeaEvaluationProcess.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess.Data\\IdeaEvaluationProcess.Data.csproj",
+        "projectName": "IdeaEvaluationProcess.Data",
+        "projectPath": "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess.Data\\IdeaEvaluationProcess.Data.csproj",
+        "packagesPath": "C:\\Users\\Devansh\\.nuget\\packages\\",
+        "outputPath": "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Devansh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess\\IdeaEvaluationProcess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess\\IdeaEvaluationProcess.csproj",
+        "projectName": "IdeaEvaluationProcess",
+        "projectPath": "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess\\IdeaEvaluationProcess.csproj",
+        "packagesPath": "C:\\Users\\Devansh\\.nuget\\packages\\",
+        "outputPath": "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Devansh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess.Data\\IdeaEvaluationProcess.Data.csproj": {
+                "projectPath": "E:\\Mukesh\\Freelancer\\Abhilash\\IdeaEvaluationProcess\\IdeaEvaluationProcess.Data\\IdeaEvaluationProcess.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
